@@ -1,1 +1,5 @@
-
+{
+  "transactions": [
+    { "id": 1, "type": "Debt payment", "amount": 100 }
+  ]
+}
