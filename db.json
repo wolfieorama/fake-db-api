@@ -1,6 +1,6 @@
 {
   "transactions": [
-    { "id": 1, "type": "Debt payment", "amount": 100 XOF }
-    { "id": 2, "type": "Shares payment", "amount": 200 XOF }
+    { "id": 1, "type": "Debt payment", "amount": "100 XOF" }
+    { "id": 2, "type": "Shares payment", "amount": "200 XOF" }
   ]
 }
