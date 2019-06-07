@@ -1,6 +1,6 @@
 {
   "transactions": [
-    {"name": "Aisha Juma" "type": "Loan payment", "amount": 200},
+    {"name": "Aisha Juma", "type": "Loan payment", "amount": 200},
     {"name": "Mwanaisha Ali", "type": "Money In", "amount": 300},
     {"name": "Hamisi Ali", "type": "Money In", "amount": 100}
   ]
