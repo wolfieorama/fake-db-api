@@ -2,6 +2,8 @@
   "transactions": [
     {"id": 1, "name": "Aisha Juma", "type": "Loan payment", "amount": 200},
     {"id": 2, "name": "Mwanaisha Ali", "type": "Money In", "amount": 300},
-    {"id": 3, "name": "Hamisi Ali", "type": "Money In", "amount": 100}
+    {"id": 3, "name": "Hamisi Ali", "type": "Money In", "amount": 100},
+    {"id": 4, "name": "Lulu Khadija", "type": "Fine", "amount": 100},
+    {"id": 5, "name": "Shani Weupe", "type": "Money out", "amount": 100}
   ]
 }
